@@ -13,5 +13,5 @@ If you are developing a production application, we recommend using TypeScript wi
 
 # Running instructions
 
- 1 Do npm install to install all dependencies
- 2 npm run dev to run the project
+ 1. Do npm install to install all dependencies
+ 2. npm run dev to run the project
